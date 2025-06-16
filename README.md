@@ -23,9 +23,4 @@ Identified risk mitigation strategies including guarantor analysis and asset ver
 
 Recommended enhancements to improve loan approval speed while maintaining credit quality
 
-🖼 Dashboard Snapshot
-📷 Screenshot attached
-
-📊 Dataset
--- Excel file attached
 
